@@ -1,0 +1,63 @@
+﻿  Camera.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Util\Camera.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Util/Camera.cpp' をコンパイルしています)
+  
+  Collision.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Character\Collision.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Character/Collision.cpp' をコンパイルしています)
+  
+  DataManager.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Manager\DataManager.cpp(8,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Enemy.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Character\Collision.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Character/Enemy.cpp' をコンパイルしています)
+  
+  Floor.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Map\Floor.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Map/Floor.cpp' をコンパイルしています)
+  
+  GraphManager.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Manager\GraphManager.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Manager/GraphManager.cpp' をコンパイルしています)
+  
+  Input.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Util\Input.cpp(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  main.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\main.cpp(1,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Player.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Character\Player.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Character/Player.cpp' をコンパイルしています)
+  
+  SceneClear.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneClear.cpp' をコンパイルしています)
+  
+  SceneBase.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneBase.cpp' をコンパイルしています)
+  
+  SceneGame.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneGame.cpp' をコンパイルしています)
+  
+  SceneGameover.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneGameover.cpp' をコンパイルしています)
+  
+  SceneManager.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneManager.h(3,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneManager.cpp' をコンパイルしています)
+  
+  SceneTitle.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneTitle.cpp(1,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  SoundManager.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Manager\SoundManager.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Manager/SoundManager.cpp' をコンパイルしています)
+  
+  Stage.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Map\Stage.h(2,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  (ソース ファイル 'Map/Stage.cpp' をコンパイルしています)
+  
+  WorldSprite.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Map\WorldSprite.cpp(1,10): error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  コードを生成中...
