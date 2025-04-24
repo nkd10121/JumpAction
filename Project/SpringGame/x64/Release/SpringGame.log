@@ -1,0 +1,51 @@
+﻿  Camera.cpp
+  Collision.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Util\Camera.cpp(2,10): error C1083: include ファイルを開けません。'Player.h':No such file or directory
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Character\Collision.cpp(44,26): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Character\Collision.cpp(44,19): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+  DataManager.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Manager\DataManager.cpp(41,11): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Manager\DataManager.cpp(54,27): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Manager\DataManager.cpp(57,19): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Enemy.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Character\Enemy.cpp(2,10): error C1083: include ファイルを開けません。'Camera.h':No such file or directory
+  Floor.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Map\Floor.cpp(2,10): error C1083: include ファイルを開けません。'Camera.h':No such file or directory
+  GraphManager.cpp
+  Input.cpp
+  main.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneManager.h(3,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+  Player.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Character\Player.cpp(2,10): error C1083: include ファイルを開けません。'Input.h':No such file or directory
+  SceneClear.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneClear.cpp' をコンパイルしています)
+  
+  SceneBase.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneBase.cpp' をコンパイルしています)
+  
+  SceneGame.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneGame.cpp' をコンパイルしています)
+  
+  SceneGameover.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneGameover.cpp' をコンパイルしています)
+  
+  SceneManager.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneManager.h(3,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneManager.cpp' をコンパイルしています)
+  
+  SceneTitle.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\scene\SceneBase.h(2,10): error C1083: include ファイルを開けません。'../SoundManager.h':No such file or directory
+  (ソース ファイル 'scene/SceneTitle.cpp' をコンパイルしています)
+  
+  SoundManager.cpp
+  Stage.cpp
+C:\Users\仲田伊織\Desktop\github\JumpAction\Project\Map\Stage.h(3,10): error C1083: include ファイルを開けません。'Camera.h':No such file or directory
+  (ソース ファイル 'Map/Stage.cpp' をコンパイルしています)
+  
+  WorldSprite.cpp
